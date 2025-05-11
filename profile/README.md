@@ -9,5 +9,6 @@ DetecGIS is a Windows Desktop application that attempts to bring streamlined res
 3. DetecGIS-Domain
 4. DetecGIS-DataAccess
 5. DetecGIS-API
-6. DetecGIS-Hardware
-7. DetecGIS-Scripts
+6. DetecGIS-TestLibrary
+7. DetecGIS-Hardware
+8. DetecGIS-Scripts
